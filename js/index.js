@@ -109,7 +109,7 @@ function ranVel(){
 // Text
 
 function changeText(){
-  var nombre_mots = 10;
+  var nombre_mots = 9;
   var nombre_aleatoire = Math.random();
   var numero = Math.round( ( nombre_mots - 1 ) * nombre_aleatoire ) + 1;
 
